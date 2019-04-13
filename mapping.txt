@@ -1,0 +1,970 @@
+asparagus	Asparagus, string beans & brussels sprouts
+broad beans	Asparagus, string beans & brussels sprouts
+brussels sprout	Asparagus, string beans & brussels sprouts
+common bean	Asparagus, string beans & brussels sprouts
+fava beans	Asparagus, string beans & brussels sprouts
+french beans	Asparagus, string beans & brussels sprouts
+frozen peas	Asparagus, string beans & brussels sprouts
+prussian asparagus	Asparagus, string beans & brussels sprouts
+string bean	Asparagus, string beans & brussels sprouts
+tepary bean	Asparagus, string beans & brussels sprouts
+apple	Bananas, apples & pears
+banana	Bananas, apples & pears
+candy apple	Bananas, apples & pears
+caramel apple	Bananas, apples & pears
+pear	Bananas, apples & pears
+aubergine	Bell peppers, zucchinis & eggplants
+eggplant	Bell peppers, zucchinis & eggplants
+courgette	Bell peppers, zucchinis & eggplants
+green pepper	Bell peppers, zucchinis & eggplants
+habanero pepper	Bell peppers, zucchinis & eggplants
+mushroom	Bell peppers, zucchinis & eggplants
+paprika	Bell peppers, zucchinis & eggplants
+pepper	Bell peppers, zucchinis & eggplants
+red pepper	Bell peppers, zucchinis & eggplants
+sweet pepper	Bell peppers, zucchinis & eggplants
+zucchini	Bell peppers, zucchinis & eggplants
+berry	Berries & cherries
+bilberry	Berries & cherries
+blackberry	Berries & cherries
+blueberry	Berries & cherries
+boysenberry	Berries & cherries
+cherry	Berries & cherries
+cloudberry	Berries & cherries
+cranberry	Berries & cherries
+elderberry	Berries & cherries
+goji berry	Berries & cherries
+gooseberry	Berries & cherries
+huckleberry	Berries & cherries
+juniper berry	Berries & cherries
+marionberry	Berries & cherries
+mulberry	Berries & cherries
+raspberry	Berries & cherries
+salmonberry	Berries & cherries
+strawberry	Berries & cherries
+sweet cherry	Berries & cherries
+whortleberry	Berries & cherries
+bream	Berries & cherries
+cranberries	Berries & cherries
+broccoli	Broccoli, cauliflowers, carrots & radish
+broccolini	Broccoli, cauliflowers, carrots & radish
+carrot	Broccoli, cauliflowers, carrots & radish
+cauliflower	Broccoli, cauliflowers, carrots & radish
+radish	Broccoli, cauliflowers, carrots & radish
+brie	Cheese
+camembert	Cheese
+cheddar	Cheese
+cheese	Cheese
+chevre	Cheese
+edam cheese	Cheese
+edamame	Cheese
+emmental	Cheese
+fondue	Cheese
+goats cheese	Cheese
+gorgonzola	Cheese
+gouda	Cheese
+gouda cheese	Cheese
+mozzarella	Cheese
+roquefort	Cheese
+swiss cheese	Cheese
+blue cheese	Cheese
+parmesan	Cheese
+blood orange	Citrus fruits
+clementine	Citrus fruits
+grapefruit	Citrus fruits
+lemon	Citrus fruits
+lemon peel	Citrus fruits
+lime	Citrus fruits
+mandarin orange	Citrus fruits
+orange	Citrus fruits
+tangerine	Citrus fruits
+citrus	Citrus fruits
+pomelo	Citrus fruits
+cherry tomato	Cucumber, tomatoes & avocados
+cucumber	Cucumber, tomatoes & avocados
+lunchmeat	Deli
+pancetta	Deli
+spread	Deli
+fried egg	Egg
+omelet	Egg
+omelette	Egg
+yolk	Egg
+deviled eggs	Eggs
+egg	Eggs
+egg white	Eggs
+egg yolk	Eggs
+anchovy	Fish
+calamari	Fish
+cockle	Fish
+crab	Fish
+crab cakes	Fish
+crayfish	Fish
+cuttlefish	Fish
+eel	Fish
+fish	Fish
+fish and chips	Fish
+fish fillet	Fish
+fish fingers	Fish
+fish steak	Fish
+flatfish	Fish
+fried calamari	Fish
+grilled salmon	Fish
+haddock	Fish
+halibut	Fish
+herring	Fish
+kingfish	Fish
+kipper	Fish
+lobster	Fish
+lobster bisque	Fish
+mussel	Fish
+octopus	Fish
+prawn	Fish
+salmon	Fish
+salmon steak	Fish
+salted fish	Fish
+sardine	Fish
+scampi	Fish
+sea bass	Fish
+seafood	Fish
+shellfish	Fish
+shrimp	Fish
+smoked fish	Fish
+smoked salmon	Fish
+snapper	Fish
+squid	Fish
+stout	Fish
+sushi	Fish
+tongue	Fish
+trout	Fish
+tuna	Fish
+tuna tartare	Fish
+mackerel	Fish
+clam	Fish
+oyster	Fish
+sturgeon	Fish
+sliced loaf	Fresh bread
+soda bread	Fresh bread
+bagel	Fresh bread
+baguette	Fresh bread
+beignets	Fresh bread
+bread	Fresh bread
+bread rolls	Fresh bread
+breadstick	Fresh bread
+brioche	Fresh bread
+brown bread	Fresh bread
+bruschetta	Fresh bread
+ciabatta	Fresh bread
+corn bread	Fresh bread
+flatbread	Fresh bread
+focaccia	Fresh bread
+french bread	Fresh bread
+garlic bread	Fresh bread
+gingerbread	Fresh bread
+wheat bread	Fresh bread
+basil	Fresh herbs
+cilantro	Fresh herbs
+mint	Fresh herbs
+oregano	Fresh herbs
+parsley	Fresh herbs
+tarragon	Fresh herbs
+bay leaf	Fresh herbs
+coriander	Fresh herbs
+grass	Fresh herbs
+rosemary	Fresh herbs
+grape	Kiwis, grapes & mango
+grape jelly	Kiwis, grapes & mango
+kiwi fruit	Kiwis, grapes & mango
+lychee	Kiwis, grapes & mango
+mango	Kiwis, grapes & mango
+sea grape	Kiwis, grapes & mango
+pomegranate	Kiwis, grapes & mango
+star fruit	Kiwis, grapes & mango
+dragonfruit	Kiwis, grapes & mango
+durian	Kiwis, grapes & mango
+bacon	Lunch & Deli Meats
+carpaccio	Lunch & Deli Meats
+chorizo	Lunch & Deli Meats
+ham	Lunch & Deli Meats
+pepperoni	Lunch & Deli Meats
+salami	Lunch & Deli Meats
+milk	Milk
+milkshake	Milk
+cooked meat	Minced meat & meatballs
+corned beef	Minced meat & meatballs
+ground beef	Minced meat & meatballs
+hamburger	Minced meat & meatballs
+hamburger bun	Minced meat & meatballs
+meat pie	Minced meat & meatballs
+meatball	Minced meat & meatballs
+meatloaf	Minced meat & meatballs
+apricot pits	Nectarines, peaches & apricots
+dried apricot	Nectarines, peaches & apricots
+nectarine	Nectarines, peaches & apricots
+peach	Nectarines, peaches & apricots
+plum	Nectarines, peaches & apricots
+prune	Nectarines, peaches & apricots
+beet	Onions, leek, garlic & beets
+beet root	Onions, leek, garlic & beets
+beet salad	Onions, leek, garlic & beets
+celery	Onions, leek, garlic & beets
+elephant garlic	Onions, leek, garlic & beets
+garlic	Onions, leek, garlic & beets
+garlic chives	Onions, leek, garlic & beets
+green onion	Onions, leek, garlic & beets
+leek	Onions, leek, garlic & beets
+onion	Onions, leek, garlic & beets
+onion rings	Onions, leek, garlic & beets
+pearl onion	Onions, leek, garlic & beets
+potato onion	Onions, leek, garlic & beets
+scallion	Onions, leek, garlic & beets
+sea beet	Onions, leek, garlic & beets
+shallot	Onions, leek, garlic & beets
+spring onion	Onions, leek, garlic & beets
+wild leek	Onions, leek, garlic & beets
+bitter melon	Pineapples, melons & passion fruit
+honeydew melon	Pineapples, melons & passion fruit
+melon	Pineapples, melons & passion fruit
+passionfruit	Pineapples, melons & passion fruit
+pineapple	Pineapples, melons & passion fruit
+watermelon	Pineapples, melons & passion fruit
+winter melon	Pineapples, melons & passion fruit
+baby back ribs	Pork, beef & lamb
+barbecue	Pork, beef & lamb
+beef	Pork, beef & lamb
+beef carpaccio	Pork, beef & lamb
+beef steak	Pork, beef & lamb
+beef tartare	Pork, beef & lamb
+bratwurst	Pork, beef & lamb
+filet mignon	Pork, beef & lamb
+fillet	Pork, beef & lamb
+fillet of sole	Pork, beef & lamb
+frankfurters	Pork, beef & lamb
+kebab	Pork, beef & lamb
+lamb	Pork, beef & lamb
+lamb chops	Pork, beef & lamb
+lamb's lettuce	Pork, beef & lamb
+lamb's quarters	Pork, beef & lamb
+link sausages	Pork, beef & lamb
+meat	Pork, beef & lamb
+pork	Pork, beef & lamb
+pork chop	Pork, beef & lamb
+pork pie	Pork, beef & lamb
+roast beef	Pork, beef & lamb
+roulade	Pork, beef & lamb
+sirloin	Pork, beef & lamb
+steak	Pork, beef & lamb
+sweetmeat	Pork, beef & lamb
+tenderloin	Pork, beef & lamb
+teriyaki	Pork, beef & lamb
+wiener	Pork, beef & lamb
+skewer	Pork, beef & lamb
+smoked sausage	Pork, beef & lamb
+prime rib	Pork, beef & lamb
+rib	Pork, beef & lamb
+sausage roll	Pork, beef & lamb
+spare ribs	Pork, beef & lamb
+blood sausage	Pork, beef & lamb
+brisket	Pork, beef & lamb
+mashed potatoes	Potatoes
+potato	Potatoes
+sweet potato	Potatoes
+bird	Poultry
+chicken	Poultry
+chicken breast	Poultry
+chicken curry	Poultry
+chicken leg	Poultry
+chicken wings	Poultry
+drumstick	Poultry
+foie gras	Poultry
+turkey	Poultry
+turkey breast	Poultry
+duck	Poultry
+goose	Poultry
+bun	Pre-baked breads
+burrito	Pre-baked breads
+croissant	Pre-baked breads
+french toast	Pre-baked breads
+pita bread	Pre-baked breads
+raisin bread	Pre-baked breads
+raisin muffin	Pre-baked breads
+sandwich	Pre-baked breads
+spring rolls	Pre-baked breads
+cottage cheese	Pudding, yogurt & quark
+beancurd	Pudding, yogurt & quark
+bechamel	Pudding, yogurt & quark
+bread pudding	Pudding, yogurt & quark
+brulee	Pudding, yogurt & quark
+buttercream	Pudding, yogurt & quark
+cake mix	Pudding, yogurt & quark
+cheesecake	Pudding, yogurt & quark
+curd	Pudding, yogurt & quark
+custard	Pudding, yogurt & quark
+dairy	Pudding, yogurt & quark
+dairy product	Pudding, yogurt & quark
+dessert	Pudding, yogurt & quark
+ice	Pudding, yogurt & quark
+ice cream	Pudding, yogurt & quark
+mousse	Pudding, yogurt & quark
+panna cotta	Pudding, yogurt & quark
+pudding	Pudding, yogurt & quark
+sorbet	Pudding, yogurt & quark
+tiramisu	Pudding, yogurt & quark
+yogurt	Pudding, yogurt & quark
+frozen yogurt	Pudding, yogurt & quark
+sundae	Pudding, yogurt & quark
+creme brulee	Pudding, yogurt & quark
+whipped cream	Pudding, yogurt & quark
+swiss chard	Salad & cress
+watercress	Salad & cress
+collards	Salad & cress
+cabbage	Salad & cress
+caesar salad	Salad & cress
+caprese salad	Salad & cress
+cole slaw	Salad & cress
+coleslaw	Salad & cress
+greek salad	Salad & cress
+iceberg lettuce	Salad & cress
+kale	Salad & cress
+lettuce	Salad & cress
+malabar spinach	Salad & cress
+new zealand spinach	Salad & cress
+red cabbage	Salad & cress
+salad	Salad & cress
+sea kale	Salad & cress
+sea lettuce	Salad & cress
+seaweed salad	Salad & cress
+sour cabbage	Salad & cress
+spinach	Salad & cress
+acorn squash	
+ahipa	
+alcohol	
+ale	
+alfalfa sprouts	
+aliment	
+allspice	
+almond	
+amaranth	
+angel-hair pasta	
+anise	
+antipasto	
+aonori	
+aperitif	
+apple pie	
+apple sauce	
+arracacha	
+artichoke	
+arugula	
+aspic	
+avocado	Cucumber, tomatoes & avocados
+azuki bean	
+baked alaska	
+baked beans	
+baklava	
+balsamic	
+bamboo shoots	
+barbecue sauce	
+barley	
+bass	
+batter	
+beans	
+beer	
+beverage	
+bibimbap	
+birthday cake	
+biscuits	
+bitter gourd	
+black beans	
+black coffee	
+black currant	
+black tea	
+blancmange	
+blueberry muffin	
+blueberry pie	
+bok choy	
+bonbon	
+bonbons	
+booze	
+borage	
+bran	
+brandy	
+breadcrumb	
+breadfruit	
+brinjal	
+brittle	
+broil	
+broth	
+brown rice	
+brownie	
+buckwheat	
+burdock	
+butter	
+cake	
+cake pop	
+canape	
+candy	
+candy bar	
+cannoli	
+cantaloupe	
+cappuccino	
+caramel	
+caraway	
+carbohydrate	
+cardamom	
+cardoon	
+carp	
+carrot cake	
+cashew	
+cassava	
+casserole	
+caviar	
+cayenne	
+cayenne pepper	
+celeriac	
+celtuce	
+cereal	
+cereal bar	
+ceviche	
+champagne	
+chard	
+chaya	
+chayote	
+cherimoya	
+chestnut	
+chicken quesadilla	
+chickpeas	
+chickweed	
+chicory	
+chili	
+chili pepper	
+chili powder	
+chili sauce	
+chinese artichoke	
+chips	
+chives	
+chocolate	
+chocolate bar	
+chocolate cake	
+chocolate candy	
+chocolate chip cake	
+chocolate cookie	
+chocolate cupcake	
+chocolate ice cream	
+chocolate mousse	
+chowder	
+churros	
+chutney	
+cider	
+cinnamon	
+cinnamon roll	
+citron	
+clam chowder	
+cloves	
+cobbler	
+cocktail	
+cocoa	
+coconut	
+coffee	
+cognac	
+coke	
+collation	
+comestible	
+common purslane	
+compote	
+condiment	
+cookie	
+corn	
+corn salad	
+cornflakes	
+coulis	
+couscous	
+cracker	
+cranberry sauce	
+cream	
+cream cheese	
+crepe	
+crescent roll	
+cress	
+crispbread	
+croque madame	
+croquette	
+crouton	
+crumble	
+crunch	
+crust	
+cumin	
+cupcake	
+currant	
+curry	
+cutlet	
+daikon	
+damson	
+dandelion greens	
+danish pastry	
+date	
+decaffeinated coffee	
+dill	
+dolichos bean	
+dollop	
+dough	
+doughnut	
+dried fruit	
+dulse	
+dumpling	
+eclair	
+elephant foot yam	
+endive	
+english muffin	
+ensete	
+escargots	
+espresso	
+falafel	
+farfalle	
+fat hen	
+feast	
+feijoa	
+fennel	
+fettuccine	
+fiddlehead	
+fig	
+flan	
+flax	
+florence fennel	
+flour	
+fluted pumpkin	
+fodder	
+fowl	
+french dressing	
+french fries	
+french onion soup	
+fried rice	
+frittata	
+fritter	
+frozen pizza	
+fruit salad	
+fruit tea	
+fruitcake	
+fudge	
+fusilli	
+galangal	
+galette	
+garam masala	
+garbanzo	
+garlic sauce	
+gastronomy	
+gazpacho	
+gelatin	
+gem	
+gherkin	
+gin	
+ginger	
+ginger ale	
+ginseng	
+gnocchi	
+good king henry	
+goody	
+goulash	
+gourd	
+grain	
+granola	
+granola bar	
+gravy	
+greater plantain	
+green tea	
+grilled cheese sandwich	
+grissini	
+groats	
+grub	
+guacamole	
+guar	
+guava	
+gyoza	
+gyro	
+hamburg parsley	
+hash	
+hay	
+hazelnut	
+herb	
+herbal tea	
+hijiki	
+honey	
+horse gram	
+horse radish	Broccoli, cauliflowers, carrots & radish
+hot chocolate	
+hot dog	
+hot dog bun	
+hot pepper	
+hot sauce	
+huevos rancheros	
+hummus	
+iced tea	
+indian pea	
+indian tea	
+italian dressing	
+ivy gourd	
+jabouticaba	
+jackfruit	
+jalapeno	
+jam	
+jambul	
+jelly	
+jelly beans	
+jerusalem artichoke	
+jicama	
+jordan almonds	
+jug	
+juice	
+jujube	
+julienne	
+ketchup	
+kettle	
+kettle corn	
+kidney bean	
+knish	
+kohlrabi	
+komatsuna	
+kombu	
+kumquat	
+ladle	
+lager	
+lagos bologi	
+land cress	
+lard	
+lasagna	
+lasagne	
+lavender	
+laver	
+legume	
+lemonade	
+lemongrass	
+lentil	
+licorice	
+lima bean	
+lime cordial	
+linguine	
+liqueur	
+liquor	
+liver pate	
+loin	
+lollipop	
+loquat	
+lotus root	
+lox	
+luffa	
+m&m	
+macadamia nut	
+macaron	
+macaroni	
+macaroon	
+maize	
+malt	
+maple syrup	
+margarine	
+marinated cucumber	
+marinated herring	
+marjoram	
+marmalade	
+marron	
+marrow	
+marshmallow	
+martini	
+marzipan	
+mashua	
+matcha	
+mate	
+mayonnaise	
+mead	
+meat sauce	
+melokhia	
+meringue	
+micronutrient	
+milk chocolate	
+millefeuille	
+millet	
+mince	
+miner's lettuce	
+miracle fruit	
+miso soup	
+mizuna greens	
+mocha	
+mochi	
+molasses	
+mole sauce	
+moth bean	
+mozuku	
+muesli	
+muesli bar	
+muffin	
+mung bean	
+mustard	
+mutton	
+nachos	
+napa cabbage	
+nectar	
+nibble	
+nigiri	
+noodle	
+nopal	
+nori	
+nougat	
+nugget	
+nut	
+nutmeg	
+oat	
+oatmeal	
+oatmeal cereal	
+oatmeal cookie	
+ogonori	
+oil	
+okra	
+olive	
+olive oil	
+orache	
+orange juice	
+orange squash	
+pad thai	
+paddy	
+paella	
+pak choy	
+pancake	
+papaya	
+papillote	
+paracress	
+parfait	
+parsnip	
+pasta	
+pasta sauce	
+pastrami	
+pastry	
+pasture	
+pate	
+pattypan squash	
+pavlova	
+pea	
+peanut	
+peanut butter	
+peapod	
+pecan	
+penne	
+peppercorn	
+peppermint	
+perch	
+persimmon	
+pesto	
+pho	
+physalis	
+pickle	
+pickled cucumber	
+pie	
+pigeon pea	
+pignut	
+pike	
+pilaf	
+pilchard	
+pine nut	
+pistachio	
+pizza	
+plaice	
+plain flour	
+platter	
+polenta	
+popcorn	
+popovers	
+poppy seed roll	
+popsicle	
+porridge	
+pot roast	
+poutine	
+prairie turnip	
+praline	
+pretzel	
+prosciutto	
+puff	
+pumpernickel	
+pumpkin	
+pumpkin seeds	
+puree	
+purple mangosteen	
+quiche	
+quince	
+quinoa	
+radicchio	
+raisin	
+rambutan	
+ramen	
+rapini	
+ratatouille	
+ration	
+ravioli	
+red velvet cake	
+red wine	
+redcurrant	
+relish	
+rhubarb	
+rice	
+rice flake	
+ricebean	
+ricotta	
+risotto	
+roe	
+romaine	
+rose	
+rum	
+runner bean	
+russian dressing	
+rutabaga	
+rye	
+rye bread	
+saffron	
+sage	
+sake	
+salad dressing	
+salal	
+salsa	
+salsify	
+salt	
+samosa	
+samphire	
+sashimi	
+satsuma	
+sauce	
+sauerkraut	
+sausage	
+saute	
+scallop	
+scone	
+scorzonera	
+scrambled	
+sea perch	
+sesame roll	
+sesame seed	
+shandy	
+sherbet	
+shish kebab	
+shortcake	
+sierra leone bologi	
+skirret	
+slaw	
+smoothie	
+snap pea	
+snow pea	
+soda	
+sorghum	
+sorrel	
+souffle	
+soup	
+sour cream	
+sourdough bread	
+soy	
+soy sauce	
+spaghetti	
+spaghetti bolognese	
+spaghetti carbonara	
+spaghetti sauce	
+spam	
+spatula	
+spearmint	
+spices	
+split peas	
+sponge cake	
+spongecake	
+spork	
+sprinkles	
+sprouts	
+spuds	
+squash	
+squash blossoms	
+steak sauce	
+stir-fry	
+straw	
+strudel	
+succotash	
+suet	
+sultanas	
+summer purslane	
+summer squash	
+sunflower	
+sunflower seeds	
+supper	
+swede	
+sweet	
+sweet corn	
+sweet-and-sour sauce	
+syrup	
+tabouli	
+tacos	
+tagliatelle	
+tajine	
+takoyaki	
+tamale	
+tamarillo	
+tamarind	
+tapioca	
+taro	
+tart	
+tartare	
+tartlet	
+tarwi	
+tatsoi	
+tea	
+tempura	
+tequila	
+thyme	
+tigernut	
+tinda	
+toast	
+toffee	
+tofu	
+tomatillo	
+tomato	Cucumber, tomatoes & avocados
+tomato sauce	
+tonic	
+torte	
+tortellini	
+tortilla chips	
+tree onion	
+truffle	
+tuber	
+turmeric	
+turnip	
+tzatziki	
+ugli fruit	
+ulluco	
+unleavened	
+urad bean	
+veal	
+veal cutlet	
+vegetable	
+velvet bean	
+venison	
+vermicelli	
+vermouth	
+viennese	
+vinaigrette	
+vinegar	
+vino	
+vodka	
+wafer	
+waffle	
+wakame	
+walnut	
+wasabi	
+water	
+water caltrop	
+water chestnut	
+water spinach	
+welsh onion	
+wheat	
+wheat flake	
+whey	
+whisky	
+white sauce	
+white wine	
+whoopie pie	
+wine	
+winged bean	
+yam	
+yao choy	
+yardlong bean	
+yarrow	
+yeast	
+yellow summer squash	
